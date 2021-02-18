@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "tes2",
+      "description": "test4",
+      "id": 9
+    },
+    {
+      "title": "New stream",
+      "description": "A stream",
+      "userId": "101049700254336163258",
+      "id": 10
+    }
+  ]
+}
